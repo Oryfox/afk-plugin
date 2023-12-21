@@ -1,0 +1,9 @@
+name: AFK-Plugin
+main: de.oryfox.AFKPlugin
+version: 1.0
+author: Oryfox
+api-version: 1.20
+commands:
+  afk:
+    description: Toggles your AFK status
+    usage: /afk
